@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **staka04/staka04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=linux,vim,vscode,bash,html,css,js,php,c,java,cloudflare,discord,ableton" /> <br /><br />
+
+### NOW TRAINING
+<img src="https://skillicons.dev/icons?i=py,mysql,github,docker,aws,grafana" /> <br /><br />
+  
