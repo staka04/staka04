@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ## My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=linux,vim,vscode,bash,html,css,js,php,c,java,cloudflare,discord,ableton" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=linux,vim,vscode,bash,html,css,js,php,c,java,cloudflare,discord,ableton,grafana" /> <br /><br />
 
 ### NOW TRAINING
-<img src="https://skillicons.dev/icons?i=py,mysql,github,docker,aws,grafana" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=py,mysql,github,docker,aws" /> <br /><br />
   
